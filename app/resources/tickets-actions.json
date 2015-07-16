@@ -1,0 +1,26 @@
+{
+    "list": {
+        "route": "",
+        "method": "get"
+    },
+    "read": {
+        "route": "/:id",
+        "method": "get"
+    },
+    "create": {
+        "route": "",
+        "method": "post"
+    },
+    "fullUpdate": {
+        "route": "/:id",
+        "method": "put"
+    },
+    "partialUpdate": {
+        "route": "/:id",
+        "method": "patch"
+    },
+    "delete": {
+        "route": "/:id",
+        "method": "delete"
+    }
+}
